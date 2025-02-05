@@ -1,0 +1,6 @@
+/* Custom styles for the toast */
+.Toastify__toast {
+    width: 400px !important; /* Set custom width */
+    font-size: 18px !important; /* Set custom font size */
+    padding: 10px !important; /* Increase padding */
+  }
